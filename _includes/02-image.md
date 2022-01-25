@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of my dog and I](https://scontent.flex2-1.fna.fbcdn.net/v/t1.6435-9/94361101_2760376047423522_2118121082606059520_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=UMt3iGA9jYAAX-mhst8&_nc_ht=scontent.flex2-1.fna&oh=00_AT9NfcGF0fhxfjGkVxbwrA5dGJqPMe_IvW_gLSwOLnuHrA&oe=6216ACD2)
