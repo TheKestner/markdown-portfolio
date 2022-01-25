@@ -1,0 +1,3 @@
+Favorite animals:
+* 🐶 Dogs
+* 🐱 Cats
